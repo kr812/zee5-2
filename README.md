@@ -26,6 +26,7 @@
 
 </h4><br>
 
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kr812/zee5-2)
 
   
   
